@@ -1,0 +1,25 @@
+#arrowRight {
+	width: 0;
+	height: 0;
+	border-top: 200px solid transparent;
+	border-left: 400px solid red;
+	border-bottom: 200px solid transparent;
+
+}
+
+#arrowLeft {
+	width: 0;
+	height: 0;
+	border-top: 200px solid transparent;
+	border-right: 400px solid red;
+	border-bottom: 200px solid transparent;
+}
+
+#body {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(54, 53, 74, 0.61)
+}
